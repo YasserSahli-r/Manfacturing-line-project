@@ -1,0 +1,26 @@
+Manufacturing line Enhancement project:-
+
+The Used senser:-
+Ultrasonic
+
+The Controller:-
+Arduino
+
+The motor:-
+Servo motor
+
+How to use:-
+The Ultrasonic will placed at the top of the Manufacturing line(on 3.5m in specific)
+because the sensor will measure the distance to specify the size of the box
+
+the distance between (200-300)cm represent small box then the motor will rotate to 135 degree
+
+the distance between (100-299)cm represent medium box then the motor will rotate to 90 degree
+
+the distance between (0-99)cm represent large box then the motor will rotate to 45 degree
+
+Note""" it's possible to change distance of any box depends on the manufacture"""
+
+
+
+ 
